@@ -1,4 +1,7 @@
-const { exec } = require("child_process").promises;
+const { exec: execCallback } = require("child_process");
+const util = require("util");
+const exec = util.promisify(execCallback);
+
 const fs = require("fs").promises;
 const path = require("path");
 

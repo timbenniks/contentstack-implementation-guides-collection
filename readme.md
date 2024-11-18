@@ -14,7 +14,9 @@
 - `contentstack-implementation-guide-nuxt-personalize`
 - `contentstack-implementation-guide-nuxt-ssr`
 - `contentstack-implementation-guide-php`
-- ~~`contentstack-implementation-guide-remix`~~
+- `contentstack-implementation-guide-remix`
+- `contentstack-implementation-guide-react`
+- `contentstack-implementation-guide-sveltekit`
 
 ## Seed packages for stacks
 
